@@ -1,0 +1,11 @@
+site_name: 从DBA到全栈
+nav:
+- 首页: index.md
+- MySQL:
+    - 安装: MySQL/a.md
+    - 备份: MySQL/b.md
+- Golang:
+    - 环境: Golang/a.md
+    - 安装: Golang/b.md
+- 关于: about.md
+theme: readthedocs
